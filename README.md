@@ -8,7 +8,7 @@
 
 ## 项目笔记（非常详细）：
 
-Lab1：[Docs (feishu.cn)](https://mjvmcdxuxx.feishu.cn/docx/FDved0JzaogVKHx0E8dcWguDnYf)
+Lab1：[﻿‬⁢⁡⁣‍‌⁤﻿‬‌‬‍﻿‬﻿⁤‬‬⁣‌⁢‍‍⁡‬‌﻿⁡‌‌‍‬﻿﻿⁢⁣Lab1：MapReduce - 飞书云文档 (feishu.cn)](https://mjvmcdxuxx.feishu.cn/docx/FDved0JzaogVKHx0E8dcWguDnYf)
 
 Lab2：[Lab2：Raft - 飞书云文档 (feishu.cn)](https://mjvmcdxuxx.feishu.cn/docx/UhsJdw9dBoCTYXxENPkcaznlnrh)
 
