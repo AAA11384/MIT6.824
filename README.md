@@ -4,11 +4,13 @@
 
 ## 源码地址：
 
-## 笔记：
+[⁢⁡⁣‌‍‬⁡⁡⁣‌⁤‌‍‌⁣‍⁣⁢⁣⁣‍‍‍⁢⁢⁡⁢﻿‍⁣‍‍⁡⁢‬MIT6.824源码 - 飞书云文档 (feishu.cn)](https://mjvmcdxuxx.feishu.cn/docx/BH59dtbp7oiVYSxE1URcdOY6n8d)
 
-### MapReduce
+## 项目笔记（非常详细）：
 
-### GFS
+Lab1：[Docs (feishu.cn)](https://mjvmcdxuxx.feishu.cn/docx/FDved0JzaogVKHx0E8dcWguDnYf)
 
-### Raft
+Lab2：[Lab2：Raft - 飞书云文档 (feishu.cn)](https://mjvmcdxuxx.feishu.cn/docx/UhsJdw9dBoCTYXxENPkcaznlnrh)
+
+Lab3：[‌⁤﻿⁤⁢⁢⁤⁣‌‍﻿‌﻿‬‬⁤‌⁣‍⁤⁤⁢‌⁡⁣⁡⁣‬⁡⁢⁢‌﻿⁡⁤‌⁣‬‍⁡⁢⁣﻿Lab3：K/V Raft - 飞书云文档 (feishu.cn)](https://mjvmcdxuxx.feishu.cn/docx/OXeDdu96do5tedxUWR6c15pQnQc)
 
